@@ -56,6 +56,7 @@ PostgreSQL
 -  ``PostgreSQL91Platform`` for version 9.1 and above.
 -  ``PostgreSQL92Platform`` for version 9.2 and above.
 -  ``PostgreSQL94Platform`` for version 9.4 and above.
+-  ``PostgreSQL100Platform`` for version 10.0 and above.
 
 SAP Sybase SQL Anywhere
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -107,5 +108,3 @@ all the different database vendors, for example MySQL BIGINT and
 Oracle NUMBER should be handled as integer. Doctrine 2 offers a
 powerful way to abstract the database to php and back conversion,
 which is described in the next section.
-
-
